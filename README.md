@@ -1,9 +1,25 @@
-### Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 
+### Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+<a href="https://linkedin.com/in/isaacanteparac">
+  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/isaacanteparac">
+  <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/isaacanteparac">
+  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/isaacanteparac">
+  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
+<br/>
 
 ```javascript
 const iac = {
   pronouns: "he" | "him",
   editor: "Visual Studio Code",
+  vscodeTheme:[]
   code: [Javascript, Typescript, HTML, CSS, Python, Java, SASS],
   technologies: {
     frontEnd: {
@@ -11,7 +27,7 @@ const iac = {
        css: ["Bulma", "Bootstrap", "Material UI"]
     },
     backEnd: {
-       py: ["flask", "fastAPI],
+       py: ["Flask", "FastAPI],
        js: ["Node", "Express"],
     },
     databases: ["MongoDB", "mySQL", "SQLite"]

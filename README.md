@@ -1,7 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
-
-<a href="https://linkedin.com/in/isaacanteparac">
-  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://linkedin.com/in/isaacanteparac" >
+  <img align="left" alt="Ashwani's Linkdein" width="22px" style="background-color:#fff;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/isaacanteparac">
   <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -34,7 +33,6 @@ const iac = {
 }
 ```
 
-
 **I'm an early 🐤** 
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
@@ -52,4 +50,6 @@ Ubuntu                 ██████████████░░░░░
 **Visual Studio Code Theme 🎨**
 - [Dark](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-dark-bat)
 - [Light](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-light-idac)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&layout=compact)
 

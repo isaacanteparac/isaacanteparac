@@ -1,4 +1,4 @@
-### Hi there <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="25">
+### Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
 <a href="https://linkedin.com/in/isaacanteparac">
   <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,15 +15,11 @@
 <br/>
 <br/>
 
-<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width='200"'>
-
-
 ```javascript
 const iac = {
   pronouns: "he" | "him",
   editor: "Visual Studio Code",
-  vscodeTheme:[]
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, SASS],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "SASS"],
   technologies: {
     frontEnd: {
        js: ["React"],
@@ -53,3 +49,6 @@ const iac = {
 Windows                █████████████████████████   100.0%
 Ubuntu                 ██████████████░░░░░░░░░░░   55.81% 
 ```
+**Visual Studio Code Theme**
+- [Dark](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-dark-bat)
+- [Light](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-light-idac)

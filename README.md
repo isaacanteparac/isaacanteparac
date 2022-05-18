@@ -49,6 +49,6 @@ const iac = {
 Windows                █████████████████████████   100.0%
 Ubuntu                 ██████████████░░░░░░░░░░░   55.81% 
 ```
-**Visual Studio Code Theme**
+**Visual Studio Code Theme 🎨**
 - [Dark](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-dark-bat)
 - [Light](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-light-idac)

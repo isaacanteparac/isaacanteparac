@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+### Hi there <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="25">
 
 <a href="https://linkedin.com/in/isaacanteparac">
   <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,6 +14,9 @@
 </a>
 <br/>
 <br/>
+
+<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width='200"'>
+
 
 ```javascript
 const iac = {
@@ -34,6 +37,7 @@ const iac = {
  }
 }
 ```
+
 
 **I'm an early 🐤** 
 ```text

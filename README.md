@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+# Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 <a href="https://linkedin.com/in/isaacanteparac" >
   <img align="left" alt="Ashwani's Linkdein" width="22px" style="background-color:#fff;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>

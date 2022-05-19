@@ -1,15 +1,15 @@
-# Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+# Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 <a href="https://linkedin.com/in/isaacanteparac" >
-  <img align="left" alt="Ashwani's Linkdein" width="22px" style="background-color:#fff;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ashwani's Linkdein" width="22px" style="background-color:#fff;" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 <a href="https://twitter.com/isaacanteparac">
-  <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ashwani's Twitter" width="22px" src="https://www.svgrepo.com/show/382739/twitter.svg" />
 </a>
 <a href="https://github.com/isaacanteparac">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ashwani's Github" width="22px" src="https://www.svgrepo.com/show/217753/github.svg" />
 </a>
 <a href="https://instagram.com/isaacanteparac">
-  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://www.svgrepo.com/show/13639/instagram.svg" />
 </a>
 <br/>
 <br/>

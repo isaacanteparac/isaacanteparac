@@ -52,5 +52,6 @@ Ubuntu                 ██████████████░░░░░
 - [Light](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-light-idac)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&layout=compact)
+
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 

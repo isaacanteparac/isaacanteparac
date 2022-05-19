@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+# Hello World!🌍
 <a href="https://linkedin.com/in/isaacanteparac" >
   <img align="left" alt="Ashwani's Linkdein" width="22px" style="background-color:#fff;" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
@@ -52,5 +52,5 @@ Ubuntu                 ██████████████░░░░░
 - [Light](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-light-idac)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&layout=compact)
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+<img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200">
 

@@ -33,6 +33,25 @@ const iac = {
 }
 ```
 
+**Tips 📓** 
+```text
+🧠 The only way to develop the programming logic is with mathematical algorithms, the algorithm must be encoded and 
+    as an output it must show the procedure of that algorithm with its respective result.
+    
+🧩I do not recommend the MVC design pattern to use in the backend, it is best to use the design pattern that you develop.
+  📁backend
+   |---📁src
+   |    |---📁usuario
+   |    |    |---📁controllers
+   |    |    |    |---📄content
+   |    |    |---📁router
+   |    |    |    |---📄content
+   |    |    |---📁model
+   |    |    |    |---📄content
+
+🗃️ 
+```
+
 **I'm an early 🐤** 
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 

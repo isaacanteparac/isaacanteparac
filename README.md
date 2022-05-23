@@ -14,42 +14,49 @@
 <br/>
 <br/>
 
-```javascript
-const iac = {
-  pronouns: "he" | "him",
-  editor: "Visual Studio Code",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "SASS"],
-  technologies: {
-    frontEnd: {
-       js: ["React"],
-       css: ["Bulma", "Bootstrap", "Material UI"]
-    },
-    backEnd: {
-       py: ["Flask", "FastAPI],
-       js: ["Node", "Express"],
-    },
-    databases: ["MongoDB", "mySQL", "SQLite"]
- }
-}
-```
+**Languages and Tools:**
+
+<a src="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a src="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+<a src="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
+<a src="https://sass-lang.com/"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
+
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a src="https://handlebarsjs.com/"><img src="https://img.icons8.com/officexs/48/handlebar-mustache.png"/></a>
+<a src="https://flask.palletsprojects.com/en/2.1.x/"><img src="https://img.icons8.com/nolan/48/flask.png"/></a>
+
+<a src="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/mysql-logo.png"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a src="https://mui.com/"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+<a src="https://www.adobe.com/la/products/xd.html"><img src="https://img.icons8.com/color/48/adobe-xd--v1.png"/></a>
+
 
 **Tips 📓** 
 ```text
 🧠 The only way to develop the programming logic is with mathematical algorithms, the algorithm must be encoded and 
     as an output it must show the procedure of that algorithm with its respective result.
     
-🧩I do not recommend the MVC design pattern to use in the backend, it is best to use the design pattern that you develop.
-  📁backend
-   |---📁src
-   |    |---📁usuario
-   |    |    |---📁controllers
-   |    |    |    |---📄content
-   |    |    |---📁router
-   |    |    |    |---📄content
-   |    |    |---📁model
-   |    |    |    |---📄content
+🧩 The best way to develop in the Back-End is using this pattern.
+   📁backend
+    |---📁src
+    |    |---📁user
+    |    |    |---📁controllers
+    |    |    |    |---📄content
+    |    |    |---📁router
+    |    |    |    |---📄content
+    |    |    |---📁model
+    |    |    |    |---📄content
 
-🗃️ 
 ```
 
 **I'm an early 🐤** 

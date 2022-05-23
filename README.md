@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-**Languages and Tools:**
+**Languages and Tools 🛠️**
 
 <a src="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
@@ -46,7 +46,7 @@
 🧠 The only way to develop the programming logic is with mathematical algorithms, the algorithm must be encoded and 
     as an output it must show the procedure of that algorithm with its respective result.
     
-🧩 The best way to develop in the Back-End is using this pattern.
+🐲 The best way to develop in the Back-End is using this pattern.
    📁backend
     |---📁src
     |    |---📁user
@@ -73,9 +73,22 @@
 Windows                █████████████████████████   100.0%
 Ubuntu                 ██████████████░░░░░░░░░░░   55.81% 
 ```
-**Visual Studio Code Theme 🎨**
+**Visual Studio Code Themes 🎨**
 - [Dark](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-dark-bat)
 - [Light](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-light-idac)
+
+**Visual Studio Code extensions 🧩**
+- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [MySQL/NoSQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&layout=compact)
 

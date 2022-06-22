@@ -1,4 +1,5 @@
-# Hello World!🌍
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=play&size=30&duration=1000&color=00F79A&multiline=true&height=80&lines=Hello+World;This+Is+Isaac+Antepara)](https://git.io/typing-svg)
+
 <a href="https://linkedin.com/in/isaacanteparac" >
   <img align="left" alt="Ashwani's Linkdein" width="22px" style="background-color:#fff;" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
@@ -89,6 +90,12 @@ Ubuntu                 ██████████████░░░░░
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&layout=compact)
-
+## :trophy: My Github Stats:
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=mtajammulzia&theme=tokyonight">
+    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=isaacanteparac&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mtajammulzia&hide=php&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&hide=php&theme=tokyonight" />
+  </a>
+</div>

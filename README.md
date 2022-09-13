@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=play&size=30&duration=2000&color=dc6673&multiline=true&height=80&lines=HELLO,+I+AM+I$AAC+ANTEPARA+C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=play&size=30&duration=2000&color=FDCD3C&multiline=true&height=80&lines=HELLO+👎)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/isaacanteparac" >
   <img align="left" alt="Ashwani's Linkdein" width="22px" style="background-color:#fff;" src="https://www.svgrepo.com/show/157006/linkedin.svg" />

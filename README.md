@@ -44,8 +44,8 @@
 
 **Tips 📓** 
 ```text
-🧠 The only way to develop the programming logic is with mathematical algorithms, the algorithm must be encoded and 
-    as an output it must show the procedure of that algorithm with its respective result.
+🧠 The only way to develop programming logic is with mathematical algorithms, the algorithm must be coded and
+    as output it should show the procedure and the result.
     
 🐲 The best way to develop in the Back-End is using this pattern.
    📁backend

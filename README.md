@@ -12,7 +12,14 @@
 <a href="https://instagram.com/isaacanteparac">
   <img align="left" alt="Ashwani's Instagram" width="22px" src="https://www.svgrepo.com/show/13639/instagram.svg" />
 </a>
+
 <br/>
+<br/>
+
+```text
+Any time one or more things are consciously brought together in such a way that they can achieve something better than they could
+have individually, that is an act of design.
+```
 <br/>
 
 **Languages and Tools 🛠️**
@@ -22,24 +29,22 @@
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <a src="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
 <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
 <a src="https://sass-lang.com/"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
-
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <a src="https://handlebarsjs.com/"><img src="https://img.icons8.com/officexs/48/handlebar-mustache.png"/></a>
 <a src="https://flask.palletsprojects.com/en/2.1.x/"><img src="https://img.icons8.com/nolan/48/flask.png"/></a>
-
 <a src="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/mysql-logo.png"/></a>
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a src="https://mui.com/"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
 <a src="https://www.adobe.com/la/products/xd.html"><img src="https://img.icons8.com/color/48/adobe-xd--v1.png"/></a>
+<a src="https://www.adobe.com/la/products/xd.html"><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png"/></a>
 
 
 **Tips 📓** 

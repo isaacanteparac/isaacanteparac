@@ -101,8 +101,10 @@ Ubuntu                 ██████████████░░░░░
 - [Blackbox - Select. Copy. Paste & Search](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon?hl=es)
 - [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai?hl=es)
 - [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=es)
+- [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce/related)
 
-**UI tools 💅**
+
+**UI web tools 💅**
 - [Image color picker](https://imagecolorpicker.com/es)
 - [Google foonts](https://fonts.google.com/?preview.text=EW&preview.text_type=custom)
 - [Generador de gradiente de color](https://mybrandnewlogo.com/es/generador-de-gradiente-de-color)

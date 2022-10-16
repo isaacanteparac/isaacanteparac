@@ -118,7 +118,9 @@ Ubuntu                 ██████████████░░░░░
 - [Deep learning color generator](https://colors.eva.design/)
 - [Buttons](https://getcssscan.com/css-buttons-examples)
 - [Only one color generates palette](https://mycolor.space/)
-- [fsymbols](https://fsymbols.com/es/generadores/tarty/)
+- [Fsymbols](https://fsymbols.com/es/generadores/tarty/)
+- [Google Font Pairing](https://www.fontpair.co/all)
+- [Bestfolios - UX/UI design inspiration](https://www.bestfolios.com/portfolios)
 ## :trophy: My Github Stats:
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=isaacanteparac&theme=tokyonight">

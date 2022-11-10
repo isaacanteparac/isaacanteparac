@@ -9,7 +9,7 @@
 <a href="https://github.com/isaacanteparac">
   <img align="left" alt="Ashwani's Github" width="22px" src="https://www.svgrepo.com/show/217753/github.svg" />
 </a>
-<a href="https://instagram.com/isaacanteparac">
+<a href="https://www.instagram.com/isaacxac_ui/">
   <img align="left" alt="Ashwani's Instagram" width="22px" src="https://www.svgrepo.com/show/13639/instagram.svg" />
 </a>
 

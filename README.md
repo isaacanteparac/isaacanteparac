@@ -1,4 +1,4 @@
-![bannerGH_ia](https://user-images.githubusercontent.com/69361351/203906109-94779412-6959-4ba4-afb0-e15757c08c99.png)
+![bannerGH_ia](https://user-images.githubusercontent.com/69361351/204041119-a0297922-c865-4749-88e3-ce4515649bca.png)
 <p align="center">
 <a href="https://linkedin.com/in/isaacanteparac" >
   <img img align="center" alt="Ashwani's Linkdein" width="35px" style="background-color:#fff;" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
@@ -19,46 +19,74 @@ something better than they could be individually, that's an act of design.
 ```
 <br/>
 
-**Languages and Tools 🛠️**
-<p align="center">
-<a src="https://code.visualstudio.com/"><img img align="center" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/></a>
-<a src="https://www.w3schools.com/css/"><img img align="center" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://www.w3schools.com/html/"><img img align="center" src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a src="https://git-scm.com/"><img img align="center" src="https://img.icons8.com/color/48/000000/git.png"/></a>
-<a src="https://github.com/"><img img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a src="https://www.javascript.com/"><img img align="center" src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://www.typescriptlang.org/"><img img align="center" src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-<a src="https://www.python.org/"><img img align="center" src="https://img.icons8.com/color/48/000000/python.png"/></a>
-<a src="https://www.typescriptlang.org/"><img img align="center" src="https://img.icons8.com/color/48/000000/java.png"/></a>
-<a src="https://sass-lang.com/"><img img align="center" src="https://img.icons8.com/color/48/000000/sass.png"/></a>
-<a src="https://nodejs.org/"><img img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a src="https://reactjs.org/"><img img align="center" src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<a src="https://www.npmjs.com/"><img img align="center" src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-<a src="https://handlebarsjs.com/"><img img align="center" src="https://img.icons8.com/officexs/48/handlebar-mustache.png"/></a>
-<a src="https://flask.palletsprojects.com/en/2.1.x/"><img img align="center" src="https://img.icons8.com/nolan/48/flask.png"/></a>
-<a src="https://www.mysql.com/"><img img align="center" src="https://img.icons8.com/color/48/mysql-logo.png"/></a>
-<a src="https://www.mongodb.com/"><img img align="center" src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-<a src="https://getbootstrap.com/"><img img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-<a src="https://mui.com/"><img img align="center" src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
-<a src="https://www.adobe.com/la/products/xd.html"><img img align="center" src="https://img.icons8.com/color/48/adobe-xd--v1.png"/></a>
-<a src="https://www.adobe.com/la/products/xd.html"><img img align="center" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png"/></a>
-</p>
+<div align=center><h1>📚 STACKS</h1></div>
+<div align=center> 
+  <img height="40px" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img height="40px" src="https://img.shields.io/badge/typescript-00599C?style=for-the-badge&logo=typescript%2B%2B&logoColor=white">
+  <img height="40px" src="https://img.shields.io/badge/python-006cff?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+   <img height="40px" src="https://img.shields.io/badge/html5-FF8500?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img height="40px" src="https://img.shields.io/badge/css-006cff?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img height="40px" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img height="40px" src="https://img.shields.io/badge/jquery-DF00FF?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+  <img height="40px" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img height="40px" src="https://img.shields.io/badge/sqlite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"> 
+  <img height="40px" src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img height="40px" src="https://img.shields.io/badge/arangoDB-47A248?style=for-the-badge&logo=arangoDB&logoColor=white">
+  <br>
+  <img height="40px" src="https://img.shields.io/badge/react-45eaf3?style=for-the-badge&logo=react&logoColor=black"> 
+  <img height="40px" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+  <img height="40px" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+  <img height="40px" src="https://img.shields.io/badge/express-C38407?style=for-the-badge&logo=express&logoColor=white">
+  <img height="40px" src="https://img.shields.io/badge/fastapi-006cff?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img height="40px" src="https://img.shields.io/badge/flask-C38407?style=for-the-badge&logo=flask&logoColor=white">
+  <br>
+   <img height="40px" src="https://img.shields.io/badge/styledcomponent-07c391?style=for-the-badge&logo=styledcomponent&logoColor=white"> 
+   <img height="40px" src="https://img.shields.io/badge/materialui-456af3?style=for-the-badge&logo=materialuii&logoColor=white">
+   <img height="40px" src="https://img.shields.io/badge/bootstrap-860fe4?style=for-the-badge&logo=bootstrap&logoColor=white">
+   <br>
+   <img height="40px" src="https://img.shields.io/badge/sass-E40fc3?style=for-the-badge&logo=sass&logoColor=white"> 
+   <img height="40px" src="https://img.shields.io/badge/handlebars-E48d0f?style=for-the-badge&logo=handlebars&logoColor=white">
+   <img height="40px" src="https://img.shields.io/badge/npm-F80000?style=for-the-badge&logo=npm&logoColor=white">
+   <br>
+   <img height="40px" src="https://img.shields.io/badge/adobexd-Ff0099?style=for-the-badge&logo=adobexd&logoColor=white">
+   <img height="40px" src="https://img.shields.io/badge/adobeps-5900FF?style=for-the-badge&logo=adobeps&logoColor=white">
+   <br>
+    <img height="40px" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+    <img height="40px" src="https://img.shields.io/badge/windows-339AF0?style=for-the-badge&logo=windows&logoColor=white">
+   <br>
+    <img height="40px" src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=vscode&logoColor=white">
+ </div>
 
-**Tips 📓** 
+
+
 ```text
-🧠 The only way to develop programming logic is with mathematical algorithms, the algorithm must be coded and
-    as output it should show the procedure and the result.
-    
-🐲 The best way to develop in the Back-End is using this pattern.
-   📁backend
-    |---📁src
-    |    |---📁user
-    |    |    |---📁controllers
-    |    |    |    |---📄content
-    |    |    |---📁router
-    |    |    |    |---📄content
-    |    |    |---📁model
-    |    |    |    |---📄content
+ 📁frontend
+  |---📁public
+  |    |---📁dom
+  |    |    |---📄content
+  |    |---📁style
+  |    |    |---📁abstract
+  |    |    |    |---📄content
+  |    |    |---📄content
+  |    |---📁img_icon
+  |    |    |---📄content
+  |---📁views
+  |    |---📁layout
+  |    |    |---📄content
+  |    |---📁partials
+  |    |    |---📄content
+ 📁backend
+  |---📁src
+  |    |---📁user
+  |    |    |---📁controllers
+  |    |    |    |---📄content
+  |    |    |---📁router
+  |    |    |    |---📄content
+  |    |    |---📁model
+  |    |    |    |---📄content
 
 ```
 

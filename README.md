@@ -19,7 +19,7 @@ something better than they could be individually, that's an act of design.
 ```
 <br/>
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 Stacks</h1></div>
 <div align=center> 
   <img height="40px" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img height="40px" src="https://img.shields.io/badge/typescript-00599C?style=for-the-badge&logo=typescript%2B%2B&logoColor=white">
@@ -109,13 +109,14 @@ Ubuntu                 ██████████████░░░░░
 - [Light](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-light-idac)
 
 
+<div align=center><h1>📚 My Github Stats</h1></div>
+<div align="center" display:"flex">
+  <a href="<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacanteparac"/>
+  </a>
+</div> <br> <br>
+<div align="center" width="100%">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacanteparac&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" />
+</a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&theme=github_dark&layout=compact&hide_border=true" /></a>
 
-## :trophy: My Github Stats:
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=isaacanteparac&theme=tokyonight">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=isaacanteparac&count_private=true&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&hide=php&theme=tokyonight">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&hide=php&theme=tokyonight" />
-  </a>
 </div>

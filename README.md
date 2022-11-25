@@ -112,7 +112,7 @@ Ubuntu          ██████████████░░░░░░░�
 
 <div align=center><h1>📚 My Github Stats</h1></div>
 <div align="center" display:"flex">
-  <a href="https://github.com/isaacanteparac?tab=repositories"/>
+  <a href="#user-activity-overview"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacanteparac"/>
   </a>
 </div>

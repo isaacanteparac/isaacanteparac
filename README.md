@@ -14,8 +14,8 @@
 <br/>
 
 ```text
-Any time one or more things are consciously brought together in such a way that they can achieve
-something better than they could have individually, that is an act of design.
+Whenever one or more things consciously come together in such a way that they can achieve
+something better than they could be individually, that's an act of design.
 ```
 <br/>
 

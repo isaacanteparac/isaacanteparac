@@ -112,12 +112,12 @@ Ubuntu          ██████████████░░░░░░░�
 
 <div align=center><h1>📚 My Github Stats</h1></div>
 <div align="center" display:"flex">
-  <a href="<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacanteparac"/>
+  <a href="https://github.com/isaacanteparac?tab=repositories"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacanteparac"/>
   </a>
 </div>
 <div align="center" width="100%">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacanteparac&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Isaac's github stats" />
-</a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&theme=github_dark&layout=compact&hide_border=true" /></a>
+<a href="https://github.com/isaacanteparac?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacanteparac&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Isaac's github stats" />
+</a> <a href="https://github.com/isaacanteparac?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&theme=github_dark&layout=compact&hide_border=true" /></a>
 
 </div>

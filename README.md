@@ -92,17 +92,17 @@ something better than they could be individually, that's an act of design.
 
 **I'm an early 🐤** 
 ```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36% 
-🌙 Night      278 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌞 Morning     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36% 
+🌙 Night       █████████░░░░░░░░░░░░░░░░   36.01% 
 
 ```
 
 **Operating Systems 💻**
 ```text
-Windows                █████████████████████████   100.0%
-Ubuntu                 ██████████████░░░░░░░░░░░   55.81% 
+Windows         █████████████████████████   100.0%
+Ubuntu          ██████████████░░░░░░░░░░░   55.81% 
 ```
 **Visual Studio Code Themes 🎨**
 - [Dark](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-dark-bat)
@@ -114,7 +114,7 @@ Ubuntu                 ██████████████░░░░░
   <a href="<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacanteparac"/>
   </a>
-</div> <br> <br>
+</div>
 <div align="center" width="100%">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacanteparac&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" />
 </a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&theme=github_dark&layout=compact&hide_border=true" /></a>

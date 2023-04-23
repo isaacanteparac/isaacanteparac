@@ -4,12 +4,6 @@
 <a href="https://linkedin.com/in/isaacanteparac" >
   <img img align="center" alt="Ashwani's Linkdein" width="35px" style="background-color:#fff;" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
-<a href="https://twitter.com/isaacanteparac">
-  <img img align="center" alt="Ashwani's Twitter" width="35px" src="https://www.svgrepo.com/show/382739/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/isaacxac_ui/">
-  <img img align="center"alt="Ashwani's Instagram" width="35px" src="https://www.svgrepo.com/show/13639/instagram.svg" />
-</a>
 </p>
 <br/>
 <br/>

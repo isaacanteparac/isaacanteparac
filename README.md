@@ -55,45 +55,6 @@ something better than they could be individually, that's an act of design.
     <img height="40px" src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=vscode&logoColor=white">
  </div>
 
-
-
-```text
- 📁frontend
-  |---📁public
-  |    |---📁dom
-  |    |    |---📄content
-  |    |---📁style
-  |    |    |---📁abstract
-  |    |    |    |---📄content
-  |    |    |---📄content
-  |    |---📁img_icon
-  |    |    |---📄content
-  |---📁views
-  |    |---📁layout
-  |    |    |---📄content
-  |    |---📁partials
-  |    |    |---📄content
- 📁backend
-  |---📁src
-  |    |---📁user
-  |    |    |---📁controllers
-  |    |    |    |---📄content
-  |    |    |---📁router
-  |    |    |    |---📄content
-  |    |    |---📁model
-  |    |    |    |---📄content
-
-```
-
-**I'm an early 🐤** 
-```text
-🌞 Morning     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36% 
-🌙 Night       █████████░░░░░░░░░░░░░░░░   36.01% 
-
-```
-
 **Operating Systems 💻**
 ```text
 Windows         █████████████████████████   100.0%

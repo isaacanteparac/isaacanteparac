@@ -14,7 +14,7 @@ something better than they could be individually, that's an act of design.
 ```
 <br/>
 
-<div align=center><h1>📚 Stacks</h1></div>
+<div align=center><h1>📚 Background</h1></div>
 <div align=center> 
   <img height="40px" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img height="40px" src="https://img.shields.io/badge/typescript-00599C?style=for-the-badge&logo=typescript%2B%2B&logoColor=white">

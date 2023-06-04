@@ -63,7 +63,10 @@ Ubuntu          ██████████████░░░░░░░�
 **Visual Studio Code Themes 🎨**
 - [Dark](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-dark-bat)
 - [Light](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-light-idac)
-
+- [Lotus Theme](https://marketplace.visualstudio.com/items?itemName=SkyLiss.lotus-theme)
+- [Cyberpunk](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk)
+- [White](https://marketplace.visualstudio.com/items?itemName=arthurwhite.white)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 <div align=center><h1>📚 My Github Stats</h1></div>
 <div align="center" display:"flex">

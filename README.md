@@ -1,4 +1,4 @@
-![BANNERGIF](https://user-images.githubusercontent.com/69361351/204060945-041d931a-e0dc-4682-b36d-65405991b6be.gif)
+![banner](https://github.com/isaacanteparac/isaacanteparac/assets/69361351/97cd5a40-ca5f-4811-942b-26d33ae7e823)
 
 <p align="center">
 <a href="https://linkedin.com/in/isaacanteparac" >

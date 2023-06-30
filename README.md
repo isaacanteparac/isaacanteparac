@@ -28,7 +28,6 @@ something better than they could be individually, that's an act of design.
   <img height="40px" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img height="40px" src="https://img.shields.io/badge/sqlite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"> 
   <img height="40px" src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img height="40px" src="https://img.shields.io/badge/arangoDB-47A248?style=for-the-badge&logo=arangoDB&logoColor=white">
   <br>
   <img height="40px" src="https://img.shields.io/badge/react-45eaf3?style=for-the-badge&logo=react&logoColor=black"> 
   <img height="40px" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 

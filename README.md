@@ -9,8 +9,8 @@
 <br/>
 
 ```text
-Whenever one or more things consciously come together in such a way that they can achieve
-something better than they could be individually, that's an act of design.
+"Cada vez que una o más cosas se juntan conscientemente de manera que puedan lograr algo mejorde lo que podrían haber
+logrado individualmente, eso es un acto de diseño" Charles Eames 
 ```
 <br/>
 
@@ -56,8 +56,8 @@ something better than they could be individually, that's an act of design.
 
 **Operating Systems 💻**
 ```text
-Windows         █████████████████████████   100.0%
-Ubuntu          ██████████████░░░░░░░░░░░   55.81% 
+Windows         █████████████████████████   Alto
+Ubuntu          ██████████████░░░░░░░░░░░   Medio 
 ```
 **Visual Studio Code Themes 🎨**
 - [Dark](https://marketplace.visualstudio.com/items?itemName=thisisisaacac.theme-dark-bat)

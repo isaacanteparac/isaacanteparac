@@ -9,7 +9,7 @@
       <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django" /><br> 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,prisma" /><br>
   <img src="https://skillicons.dev/icons?i=github,gitlab,git,md,ps" /><br>
-     <img src="https://skillicons.dev/icons?i=vscode,neovim,github,eclipse,androidstudio,postman" /><br>
+     <img src="https://skillicons.dev/icons?i=vscode,neovim,eclipse,androidstudio,postman" /><br>
 
 </div>
 <br/>

@@ -1,5 +1,4 @@
 
-![dfww](https://github.com/isaacanteparac/isaacanteparac/assets/69361351/5279c52d-561c-4daf-9b1d-c432802892b1)
 <br/>
 <br/>
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>

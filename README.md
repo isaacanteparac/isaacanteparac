@@ -31,7 +31,7 @@
   </a>
 </div>
 <div align="center" width="100%">
-<a href="https://github.com/isaacanteparac?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacanteparac&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Isaac's github stats" />
-</a> <a href="https://github.com/isaacanteparac?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacanteparac&theme=github_dark&layout=compact&hide_border=true" /></a>
+<a href="https://github.com/davis-anre?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=davis-anre&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Isaac's github stats" />
+</a> <a href="https://github.com/davis-anre?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davis-anre&theme=github_dark&layout=compact&hide_border=true" /></a>
 
 </div>

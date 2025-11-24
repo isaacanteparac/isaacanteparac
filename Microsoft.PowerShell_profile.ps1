@@ -275,29 +275,6 @@ function server {
 # Para usar la función, solo tienes que escribir su nombre en la consola de PowerShell:
 # Generate-Letter
 
-function open {
-    param (
-        [string]$target
-    )
-
-    # Definir la ruta completa
-    $fullPath = if (-not $target) { 
-        Get-Location.Path 
-    } else { 
-        Join-Path -Path (Get-Location) -ChildPath $target
-    }
-
-    # Verificar si el archivo o carpeta existe
-    if (Test-Path $fullPath) {
-        # 'Invoke-Item' (alias 'ii') abre cualquier archivo o carpeta 
-        # con la aplicación predeterminada del sistema (simula el doble clic).
-        Invoke-Item $fullPath 
-        Write-Host "Opening '$fullPath' with the system's default application." -ForegroundColor Green
-    } else {
-        Write-Host "The file or folder '$target' doesn't exist." -ForegroundColor Red
-    }
-}
-
 function edit-commands {
     $fullPath = "C:\Users\user\Documents\PowerShell\Microsoft.PowerShell_profile.ps1"
 
@@ -540,7 +517,7 @@ function auto-shutdown {
 
 function commands {
     $commands = @(
-        [PSCustomObject]@{ Name = "open"; Description = "Abre un archivo o carpeta con la **aplicación predeterminada** del OS. Si no se especifica ruta, abre la carpeta actual en el Explorador." },
+        [PSCustomObject]@{ Name = "ii"; Description = "Abre un archivo o carpeta con la **aplicación predeterminada** del OS. Si no se especifica ruta, abre la carpeta actual en el Explorador." },
         # ... (Resto de los comandos sin cambios)
         [PSCustomObject]@{ Name = "delete"; Description = "Elimina de forma forzada y recursiva un archivo o carpeta del OS. Uso: delete nombre_o_ruta" },
         [PSCustomObject]@{ Name = "new"; Description = "Crea un nuevo archivo (si el nombre tiene un punto) o un nuevo directorio/carpeta (si no tiene punto) en la ubicación actual. Uso: new archivo.txt o new carpeta_nombre" },

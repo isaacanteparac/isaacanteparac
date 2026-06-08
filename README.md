@@ -47,9 +47,3 @@ Mi trabajo se centra en el desarrollo de productos digitales que combinan **tecn
 
 ¿Tienes una idea loca que merezca existir?<br>Escríbeme y la bajamos a tierra. **DM** en <a href="https://www.linkedin.com/in/isaacanteparac/" target="_blank">LinkedIn</a>
 
-## My Soundtrack 🎶
-
-Sometimes coding feels like a trap beat…  
-**Now playing:** <a href="https://open.spotify.com/track/1LsisG6aoqfsF1r6M4LpMO?si=0908947c3cfa4093" target="_blank">Blakk Rokkstar – Ken Carson</a>  
-
-> Mood: chaotic energy 💥
